@@ -1,0 +1,21 @@
+
+div.left {
+  background-color: blue;
+  border: 2px blue;
+  float: left;
+  width: 33.33%;
+}
+
+div.middle {
+  background-color: white;
+  border: 2px white;
+  float: left;
+  width: 33.33%;
+}
+
+div.right {
+  background-color: red;
+  border: 2px red;
+  float: left;
+  width: 33.33%;
+}
